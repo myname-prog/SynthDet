@@ -1,6 +1,6 @@
 {
   "UnityEngine.Perception.GroundTruth.Consumers.SoloEndpoint.output_path": {
     "type": "String",
-    "value": "D:/SBONGA/UnityOutput"
+    "value": "C:/Users/sdlam/AppData/LocalLow/UnityTechnologies/SynthDet"
   }
 }
